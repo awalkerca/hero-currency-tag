@@ -1,5 +1,5 @@
 {
-  "name": "hexo-currency-code",
+  "name": "hexo-currency-tag",
   "version": "0.0.1",
   "main": "index",
   "dependencies": {
